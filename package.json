@@ -1,0 +1,16 @@
+{
+  "name": "twitter-bot",
+  "version": "1.0.0",
+  "description": "bot that post twit and images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "akash yadav",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "oauth": "^0.9.15",
+    "twit": "^2.2.5"
+  }
+}
