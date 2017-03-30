@@ -9,7 +9,7 @@ var T = new Twit({
 //  timeout_ms:           60*1000,  // optional HTTP request timeout to apply to all requests.
 });
 //twitt something you want!!
-var content={ status: 'hey world! How is u doing man?' };
+var content={ status: 'hey world! How is u doing man? well bro? Im a fine and running' };
 T.post('statuses/update',content , function(err, data, response) {
   if(err)
   {
