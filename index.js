@@ -2,10 +2,10 @@ var express=require('express');
 var app=express();
 var Twit = require('twit');
 var T = new Twit({
-  consumer_key:         'yE8hGtdMfvbK5ksBqfG7CL88V',
-  consumer_secret:      '1AgSNDzitI0Ij7mKJj1tgr0BwRDyCnK8FyiJY515CiqjfpJkvG',
-  access_token:         '3623333233-VCYcuYVAjrwIf7vjqxryoUIqr5x3PBGKguv9gsL',
-  access_token_secret:  'cT2ay8IzbMdeGdpBShCbmnA2NgWevmNKE5KXz0TMU9XSK',
+  consumer_key:         '##############',
+  consumer_secret:      '########################################',
+  access_token:         '###########################################',
+  access_token_secret:  '####################################',
 //  timeout_ms:           60*1000,  // optional HTTP request timeout to apply to all requests.
 });
 //twitt something you want!!
